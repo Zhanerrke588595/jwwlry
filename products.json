@@ -1,0 +1,273 @@
+
+[
+  {
+    "id": "bracelet1",
+    "category": "bracelets",
+    "name": "CHAINED CUFF",
+    "price": 200,
+    "image": "RELEASES/br1.svg",
+    "description": "Elegant chained bracelet."
+  },
+  {
+    "id": "bracelet2",
+    "category": "bracelets",
+    "name": "THIN CHAIN",
+    "price": 90,
+    "image": "RELEASES/br2.svg",
+    "description": "Classic thin chain."
+  },
+  {
+    "id": "bracelet3",
+    "category": "bracelets",
+    "name": "LEAFY CHAIN",
+    "price": 60,
+    "image": "RELEASES/br3.svg",
+    "description": "Modern  strap  of leafy chain bracelet."
+  },
+  {
+    "id": "bracelet4",
+    "category": "bracelets",
+    "name": "FLORA CHAIN",
+    "price": 40,
+    "image": "RELEASES/br4.svg",
+    "description": "pretty flower typed flora bracelet."
+  },
+  {
+    "id": "bracelet5",
+    "category": "bracelets",
+    "name": "ARROW CUFF",
+    "price": 200,
+    "image": "RELEASES/br5.svg",
+    "description": "arrow formed strong arrow cuff."
+  },
+
+  {
+    "id": "necklace1",
+    "category": "necklaces",
+    "name": "Initial Pendant",
+    "price": 300,
+    "image": "RELEASES/NE1.svg",
+    "description": "A beautiful gold pendant with an initial."
+  },
+  {
+    "id": "necklace2",
+    "category": "necklaces",
+    "name": "Heart Drop",
+    "price": 200,
+    "image": "RELEASES/NE2.svg",
+    "description": "Romantic heart-shaped pendant."
+  },
+  {
+    "id": "necklace3",
+    "category": "necklaces",
+    "name": "Diamond Chocker",
+    "price": 320,
+    "image": "RELEASES/NE3.svg",
+    "description": "Luxury diamond necklace."
+  },
+  {
+    "id": "necklace4",
+    "category": "necklaces",
+    "name": "Leaf Pendant",
+    "price": 90,
+    "image": "RELEASES/NE4.svg",
+    "description": "Classic leaf pendant necklace."
+  },
+  {
+    "id": "necklace5",
+    "category": "necklaces",
+    "name": "Ruby Pendant",
+    "price": 250,
+    "image": "RELEASES/NE5.svg",
+    "description": "Trendy and luxury ruby necklace."
+  },
+   {
+    "id": "necklace6",
+    "category": "necklaces",
+    "name": "Opal Heart",
+    "price": 150,
+    "image": "RELEASES/ne6.svg",
+    "description": "Opal heart necklace."
+  },
+  {
+    "id": "necklace7",
+    "category": "necklaces",
+    "name": "Interlocking Gold",
+    "price": 200,
+    "image": "RELEASES/ne7.svg",
+    "description": "Interlocking gold necklace."
+  },
+  {
+    "id": "necklace8",
+    "category": "necklaces",
+    "name": "Lariat",
+    "price": 150,
+    "image": "RELEASES/n8.svg",
+    "description": "Lariat style necklace."
+  },
+  {
+    "id": "necklace9",
+    "category": "necklaces",
+    "name": "Tag Pendant",
+    "price": 100,
+    "image": "RELEASES/ne9.svg",
+    "description": "Tag shaped pendant necklace."
+  },
+  {
+    "id": "necklace10",
+    "category": "necklaces",
+    "name": "Flora Pendant",
+    "price": 300,
+    "image": "RELEASES/n10.svg",
+    "description": "Flora themed pendant."
+  },
+
+   {
+    "id": "ring1",
+    "category": "rings",
+    "name": "Ring of Leaves",
+    "price": 200,
+    "image": "RELEASES/ri1.svg",
+    "description": "Diamond studs ring."
+  },
+  {
+    "id": "ring2",
+    "category": "rings",
+    "name": "Simple Chain Ring",
+    "price": 100,
+    "image": "RELEASES/r2.svg",
+    "description": "Mini hoops ring."
+  },
+  {
+    "id": "ring3",
+    "category": "rings",
+    "name": "Tiara Ring",
+    "price": 150,
+    "image": "RELEASES/ri3.svg",
+    "description": "Diamond style tiara ring."
+  },
+  {
+    "id": "ring4",
+    "category": "rings",
+    "name": "Rose Ring",
+    "price": 100,
+    "image": "RELEASES/ri4.svg",
+    "description": "Leaf-inspired rose ring."
+  },
+  {
+    "id": "ring5",
+    "category": "rings",
+    "name": "Signet Ring",
+    "price": 100,
+    "image": "RELEASES/ri5.svg",
+    "description": "Classic signet ring."
+  },
+
+  {
+    "id": "earring1",
+    "category": "earrings",
+    "name": "Diamond Studs",
+    "price": 200,
+    "image": "RELEASES/ER1.svg",
+    "description": "Diamond stud earrings."
+  },
+  {
+    "id": "earring2",
+    "category": "earrings",
+    "name": "Mini Hoops",
+    "price": 90,
+    "image": "RELEASES/ER2.svg",
+    "description": "Small hoop earrings."
+  },
+  {
+    "id": "earring3",
+    "category": "earrings",
+    "name": "Dangling Leaves",
+    "price": 60,
+    "image": "RELEASES/ER3.svg",
+    "description": "Dangling leaf-shaped earrings."
+  },
+  {
+    "id": "earring4",
+    "category": "earrings",
+    "name": "Leaf Studs",
+    "price": 40,
+    "image": "RELEASES/ER4.svg",
+    "description": "Leaf-inspired stud earrings."
+  },
+  {
+    "id": "earring5",
+    "category": "earrings",
+    "name": "Chain Drops",
+    "price": 40,
+    "image": "RELEASES/ER5.svg",
+    "description": "Chain drop style earrings."
+  },
+  {
+    "id": "earring6",
+    "category": "earrings",
+    "name": "Star Bundle Studs",
+    "price": 100,
+    "image": "RELEASES/e6.svg",
+    "description": "Star bundle stud earrings."
+  },
+  {
+    "id": "earring7",
+    "category": "earrings",
+    "name": "Spherical Drops",
+    "price": 150,
+    "image": "RELEASES/er7.svg",
+    "description": "Spherical drop earrings."
+  },
+  {
+    "id": "earring8",
+    "category": "earrings",
+    "name": "Chained Studs",
+    "price": 100,
+    "image": "RELEASES/er8.svg",
+    "description": "Chained stud earrings."
+  },
+
+  
+ {
+    "id": "charm1",
+    "category": "charms",
+    "name": "Key Charm",
+    "price": 80,
+    "image": "RELEASES/ch1.svg",
+    "description": "Key-shaped charm."
+  },
+  {
+    "id": "charm2",
+    "category": "charms",
+    "name": "Cornicello Charm",
+    "price": 90,
+    "image": "RELEASES/ch2.svg",
+    "description": "Cornicello style charm."
+  },
+  {
+    "id": "charm3",
+    "category": "charms",
+    "name": "Medallion Charm",
+    "price": 60,
+    "image": "RELEASES/ch3.svg",
+    "description": "Medallion-shaped charm."
+  },
+  {
+    "id": "charm4",
+    "category": "charms",
+    "name": "Globe Charm",
+    "price": 90,
+    "image": "RELEASES/ch4.svg",
+    "description": "Globe-shaped charm."
+  },
+  {
+    "id": "charm5",
+    "category": "charms",
+    "name": "Heart Charm",
+    "price": 80,
+    "image": "RELEASES/ch5.svg",
+    "description": "Heart-shaped charm."
+  }
+]
+
